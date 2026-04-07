@@ -1,4 +1,4 @@
-To donwload the last version:
+To download the last version:
 
 https://github.com/mayconaudiolinkdev/audiolink-slack-manager-releases/releases/tag/v3.1
 
